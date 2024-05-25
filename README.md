@@ -2,7 +2,9 @@
 
 - 🌱 I’m currently learning **Deepening my understanding of Python, Java, C, HTML, CSS, and PHP**
 
-- I am a passionate and dedicated undergraduate student currently pursuing a Bachelor of Science with Honours in Industrial Information Technology at Uva Wellassa University of Sri Lanka. My academic journey has equipped me with a strong foundation in both theoretical and practical aspects of IT, with a particular focus on its applications in industrial settings.
+- 👩‍🎓👩‍💻I am a passionate and dedicated undergraduate student currently pursuing a Bachelor of Science with Honours in Industrial Information Technology at Uva Wellassa University of Sri Lanka. 
+
+- My academic journey has equipped me with a strong foundation in both theoretical and practical aspects of IT, with a particular focus on its applications in industrial settings.
 
 - 👯 I’m looking to collaborate on **Open-source projects that involve Python, Java, or web development. Interested in projects related to machine learning, data visualization, or anything that combines creativity with technology. Excited to work with like-minded individuals on innovative and impactful projects.**
 
